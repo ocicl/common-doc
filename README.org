@@ -1,0 +1,10 @@
+* common-doc
+
+A framework for representing and manipulating documents.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/CommonDoc/common-doc.git   |
+| commit  | bcde4cf  |
+| systems | common-doc |
+|---------+-------------------------------------------|
+
